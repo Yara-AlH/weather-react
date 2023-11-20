@@ -10,6 +10,7 @@ export default function Footer() {
             href="https://github.com/Yara-AlH/weather-react"
             target="_blank"
             className="openSourceCode"
+            rel="noreferrer"
           >
             Open-source code
           </a>
