@@ -1,0 +1,22 @@
+.temperature {
+  text-align: center;
+  font-size: 100px;
+}
+
+.temp {
+  display: inline-flex;
+  align-items: center;
+}
+
+.tempNumebr {
+  margin-right: 10px;
+}
+
+.units {
+  text-align: center;
+  font-size: 20px;
+}
+
+.celcius {
+  font-size: 25px;
+}
