@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="footer">
         <p>
           <a
-            href="https://github.com/Yara-AlH/my-weather-app"
+            href="https://github.com/Yara-AlH/weather-react"
             target="_blank"
             className="openSourceCode"
           >
